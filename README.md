@@ -5,7 +5,7 @@ This card displays a profile picture, name, email (clickable), job title, social
 
 # Preview
 <p align="center">
-  <img src="Profile-Card/Photos/Profile Card Image.png" 
+  <img src="https://github.com/Karan-Roshan/Profile-Card/blob/efc795640bf08f95358afde28287f0319ed939d8/Photos/Profile%20Card%20Image.png" 
        alt="Profile Card" 
        width="300">
 </p>
